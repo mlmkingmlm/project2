@@ -1,3 +1,3 @@
 # project 2
 
-local system project
+this project is created in local system
